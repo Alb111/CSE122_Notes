@@ -5,11 +5,9 @@
 - since we cant just realy on faster/smaller transistors for speed we are starting to do multi core archetecture and stuff like stack transistors vertically and redesign transistors to use finfets and stuff like that
 
 ## Design Flow
-**Front-end**
-1) [HDL](## What is a HDL)
-2) Systhesis
 
-**Back-end**
+1) [HDL design](#What-is-a-HDL)
+2) Systhesis
 3) Floorplanning
 4) Placement
 5) Clock Systhesis
