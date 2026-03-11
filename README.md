@@ -1,4 +1,5 @@
 ## High Level Course Topics
+- [Overview](notes/Overview.md)
 - [Fabrication](notes/Fabrication.md)
 - [Devices and Layout](notes/Devices_and_Layout.md)
 - [Cell Libraries](notes/Cell_Libraries.md)
