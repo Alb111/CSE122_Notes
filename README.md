@@ -1,1 +1,13 @@
-# CSE122_Notes
+## High Level Course Topics
+- [Fabrication](notes/Fabrication.md)
+- [Devices and Layout](notes/Devices_and_Layout.md)
+- [Cell Libraries](notes/Cell_Libraries.md)
+- [Delay and Power](notes/Delay_and_Power.md)
+- [Static Timing Analysis](notes/Static_Timing_Analysis.md)
+- [Floorplanning & Placement](notes/Floorplanning_&_Placement.md)
+- [Clock Synthesis](notes/Clock_Synthesis.md)
+- [Memories](notes/Memories.md)
+- [Routing](notes/Routing.md)
+- [Chip Finishing](notes/Chip_Finishing.md)
+- [Design for Manufacturing](notes/Design_for_Manufacturing.md)
+- [IOs and Packaging](notes/IOs_and_Packaging.md)
