@@ -12,14 +12,12 @@
 3) [Static Timing Analysis](#Static-Timing-Analysis)
 
 **Back End**
-4) [Floorplanning](#Placement)
-5) Placement
-6) Clock Systhesis
-7) Routing
-8) OPC/RET
-9) DRC/LVS
-10) Yield Optimization
-11) Sign-off/Tape-out
+1) [Floorplanning](#Floorplanning)
+2) [Placement](#Placement)
+3) [Clock Systhesis](#Clock-Systhesis)
+4) [Routing](#Routing)
+6) [DRC/LVS](#DRC/LVS)
+5) [OPC/RET](#OPC/RET)
 
 ## What is a HDL
 - HDL: Hardware Design Languauge
